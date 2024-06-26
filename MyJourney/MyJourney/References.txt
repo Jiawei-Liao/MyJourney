@@ -1,0 +1,5 @@
+References for this project
+
+[1] K. Barmawala, “Tableview inside a Tableview cell(using auto-resizing) — Neat and clean!,” Medium, Aug. 03, 2023. https://medium.com/@kishanbarmawala7/tableview-inside-a-tableview-cell-using-auto-resizing-neat-and-clean-eca160893f0d (accessed May. 21, 2024).
+‌Use: Creating expandable rows for the user's entries
+Modifications: Design and refactoring

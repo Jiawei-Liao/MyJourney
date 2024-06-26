@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22757" systemVersion="23E224" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CurrentJourney" representedClassName="CurrentJourney" syncable="YES">
+        <attribute name="descriptionText" optional="YES" attributeType="String"/>
+        <attribute name="journeyDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="journeyLocationName" optional="YES" attributeType="String"/>
+        <attribute name="latitude" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="weather" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Login" representedClassName="Login" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Tutorial" representedClassName="Tutorial" syncable="YES">
+        <attribute name="tutorialDone" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+</model>
